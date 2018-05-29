@@ -1,0 +1,258 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="agate.id" resolutions="1x,2x" timestamp="1527576062661">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="394772072" ref="products:index"/>
+    <file name="products.css" crc="3856446020" ref="products"/>
+    <file name="index.css" crc="4115041255" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products"/>
+    <file name="museutils.js" crc="3803043152" ref="index:products"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products"/>
+    <file name="museconfig.js" crc="380897831" ref="index:products"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:products"/>
+    <file name="webpro.js" crc="242022427" ref="index:products"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:products"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:products"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:products"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:products"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:products"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:products"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:products"/>
+    <file name="require.js" crc="4157109226" ref="index:products"/>
+  </folder>
+  <folder name="images">
+    <file name="12e.jpg" crc="29431080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:products"/>
+    <file name="career-desktop.jpg" crc="4045354627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-2.jpg" crc="499137023" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dot.png" crc="3902201053" ref="index:products">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-whitetransp.svg" crc="4201141537" ref="index"/>
+    <file name="logo-whitetransp_poster_u3103.png" crc="201904408" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:products"/>
+    <file name="learn-u3633.png" crc="71127425" ref="index"/>
+    <file name="learn-u3633_2x.png" crc="3865917183" ref="index"/>
+    <file name="learn-u3633-r.png" crc="3952110773" ref="index"/>
+    <file name="learn-u3633-r_2x.png" crc="283796137" ref="index"/>
+    <file name="dungeon.jpg" crc="3834824958" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dungeon_2x.jpg" crc="3777549077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanta.jpg" crc="325869866" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fanta_2x.jpg" crc="162681583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hantu.jpg" crc="439018196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hantu_2x.jpg" crc="446697515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juragandishub.jpg" crc="81532978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="juragandishub_2x.jpg" crc="4027653726" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kaesang.jpg" crc="3984964760" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kaesang_2x.jpg" crc="3770148164" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="love.jpg" crc="4257691554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="love_2x.jpg" crc="143841874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reon.jpg" crc="417578097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="reon_2x.jpg" crc="116745294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sholeh.jpg" crc="4210064249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sholeh_2x.jpg" crc="4141464409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="varc.jpg" crc="3942576548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="varc_2x.jpg" crc="321096944" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-crop-u3995.png" crc="7692081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrow-crop-u4035.png" crc="7692081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gamepad-u4054.png" crc="530147109" ref="index"/>
+    <file name="gamepad-u4054_2x.png" crc="4146588652" ref="index"/>
+    <file name="gamepad-u4054-r.png" crc="207395465" ref="index"/>
+    <file name="gamepad-u4054-r_2x.png" crc="4121680215" ref="index"/>
+    <file name="dsc_8200-500x331.jpg" crc="4251263635" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_8200-500x331_2x.jpg" crc="101940675" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="read.png" crc="374042002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="read_2x.png" crc="55683284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sc_03_food-311x500-crop-u4145.jpg" crc="322267248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="header-email-1-crop-u4151.jpg" crc="208507582" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4399.png" crc="4173138112" ref="index"/>
+    <file name="u4399_2x.png" crc="515114098" ref="index"/>
+    <file name="u4399-r.png" crc="3826923933" ref="index"/>
+    <file name="u4399-r_2x.png" crc="3946183797" ref="index"/>
+    <file name="jobunder.png" crc="8052589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19job2-crop-u4431.png" crc="7250304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19job.png" crc="168399495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19job_2x.png" crc="3950824676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mlacan.png" crc="421936055" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="join-u4540.png" crc="3964847910" ref="index"/>
+    <file name="join-u4540_2x.png" crc="3801505400" ref="index"/>
+    <file name="join-u4540-r.png" crc="4102005460" ref="index"/>
+    <file name="join-u4540-r_2x.png" crc="108604976" ref="index"/>
+    <file name="gds-01.svg" crc="121017337" ref="index"/>
+    <file name="gds-01_poster_u3651.png" crc="474692817" ref="index"/>
+    <file name="angkotsprite.png" crc="3820025424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled-3.png" crc="269807486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.svg" crc="4243162883" ref="index"/>
+    <file name="logo_poster_u1954.png" crc="310507940" ref="index"/>
+    <file name="juragan-terminal-ls2.jpg" crc="148772721" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="fantasista3c.jpg" crc="170672058" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="love-spice-dark.jpg" crc="104061108" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logojuragan.png" crc="275088218" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logojuragan_2x.png" crc="266961906" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="en_badge_web_generic.png" crc="4054338759" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="en_badge_web_generic_2x.png" crc="4091430237" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="download_on_the_app_store_badge_us-uk_rgb_blk_092917.svg" crc="39820679" ref="products"/>
+    <file name="download_on_the_app_store_badge_us-uk_rgb_blk_092917_poster_u4896.png" crc="3811659111" ref="products"/>
+    <file name="fantalogobl.png" crc="3801593074" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="logobumbu.png" crc="81399519" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="dungeon300x225.jpg" crc="296718287" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="dungeon300x225_2x.jpg" crc="355423677" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="en_badge_web_generic-u5162-fr.png" crc="449999522" ref="products"/>
+    <file name="en_badge_web_generic-u5162-fr_2x.png" crc="59638042" ref="products"/>
+    <file name="fanta300x225.jpg" crc="338205027" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="fanta300x225_2x.jpg" crc="106391400" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="hantu300x225.jpg" crc="4275459228" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="hantu300x225_2x.jpg" crc="4110256085" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="juragandishub300x225.jpg" crc="330083173" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="juragandishub300x225_2x.jpg" crc="3764593223" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="kaesang300x225.jpg" crc="3884385706" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="kaesang300x225_2x.jpg" crc="3957780280" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="love300x225.jpg" crc="439409405" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="love300x225_2x.jpg" crc="3914790672" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="sholeh300x225.jpg" crc="468054705" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="sholeh300x225_2x.jpg" crc="4220172700" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="varc300x225.jpg" crc="13044005" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="varc300x225_2x.jpg" crc="147862172" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="visit.png" crc="4218009721" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="visit_2x.png" crc="3823288169" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="reon300x225.jpg" crc="3845060751" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="reon300x225_2x.jpg" crc="48261307" seo="true" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4244845139" seo="true" mt="1527576048909" redirect="true"/>
+  <file name="products.html" crc="529906403" seo="true" mt="1527576048909" redirect="true"/>
+</manifest>
